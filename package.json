@@ -13,13 +13,14 @@
   "dependencies": {
     "@remix-run/node": "^2.7.2",
     "@remix-run/react": "^2.7.2",
-    "@remix-run/serve": "^2.7.2",
+    "@vercel/remix": "2.7.2-preset.1",
     "isbot": "^4.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@remix-run/dev": "^2.7.2",
+    "@remix-run/dev": "2.8.0-pre.1",
+    "@remix-run/serve": "2.8.0-pre.1",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
     "@typescript-eslint/eslint-plugin": "^6.7.4",
